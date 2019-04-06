@@ -1,7 +1,11 @@
-*{
-    background-color: rgb(39, 39, 39);
+body{
+    background: #202028;
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 2em;
+    text-align: center;
 }
 canvas{
-    margin-left: 800px;
-    margin-top: 200px;
+    border: solid .23em #fff;
+    height: 90vh;
 }
